@@ -1,4 +1,4 @@
-<p><b>Unscrambler</b></p>
+<p><h1>Unscrambler</h1></p>
 <br/>
 <ul>
 <li>A Simple JAVA console application to find all English words that match to a given sequence of letters. It takes a raw word list, such as the one provided ("words_alpha.txt") and creates a memory map with the Word and an integer array of its letter distribution. The map is sorted in memory according to this array using iterative QuickSort (otherwise this list 370k+ words will cause a stack overflow). The sorted map is written into a new file "WORDLIST.DAT".</li>
