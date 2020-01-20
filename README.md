@@ -7,11 +7,12 @@
 
 
 Examples:
-1. Input: seroto
-Output: seroot, sooter, torose
+<ul>
+<li><pre>Input: seroto
+Output: seroot, sooter, torose</pre></li>
 
-2. Input: master
-Output: matres, maters, ramets, stream, remast, armets, master, martes, tamers
+<li><pre>Input: master
+Output: matres, maters, ramets, stream, remast, armets, master, martes, tamers</pre></li>
 
-3. Input: darthvader
-Output: No suitable match found!
+<li><pre>Input: darthvader
+Output: No suitable match found!</pre></li>
